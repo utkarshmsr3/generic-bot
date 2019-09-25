@@ -1,0 +1,140 @@
+What is the eligibilty criteria for the certification?
+You must be registered on InfyTQ and a student of B.E., B. Tech, M.E., M. Tech, M.Sc., MCM, or MCA, graduating in 2020,to register for the Infosys Certification.
+
+Is there any minimum percentage required in 10th/12th/graduation/post graduation for this?
+You don't require a minimum percentage to apply for The Infosys Certification.
+
+Are people from non B-tech background eligible?
+No, only students from B.E., B. Tech, M.E., M. Tech, M.Sc., MCM or MCA and graduate/post-graduate from 2020 batch is eligible for the Infosys Certification.
+
+Is this certification available only for indian citizens?
+Yes, as of now, it's available only for Indian citizens.
+
+I am already working with some other organization, am I be eligible to apply for The Infosys Certification?
+If you are pursuing B.E., B. Tech, M.E., M. Tech, M.Sc., MCM or MCA, graduating/ post-graduating in 2020, you are eligible.
+
+Is there any age restriction?
+No, there is no age restriction as long as you are graduating in 2020.
+
+Is the certification affiliated with a board?
+No. It is an independent certification issued by Infosys Limited, India.
+
+How will the certificate benefit students apart from getting a job at Infosys?
+The certification will assess you on your technical skills. Being certified by Infosys will be a testimonial for your technical skills and can be a strong point for your resume.
+
+How is this certification different from other technical certifications in the industry?
+This certification gives you an additional benefit of being a part of Infosys' recruitment process and securing a job opportunity at Infosys.
+
+What is the syllabus for the certification?You will be tested on Programming and Database.
+You can study these courses (Programming Fundamentals using Python, Object Oriented Programming using Python, Data Structures and Algorithms using Python, and Learning DBMS and SQL) on InfyTQ under the Foundation Courses section.
+
+Can anyone who is not registered on InfyTQ also access Certification registration link?
+No, you will have to be registered on InfyTQ to register for The Infosys Certification.
+
+Do I need to complete the learning modules before I take the test?
+No, It's not necessary. If you think you are competent enough to crack the test without going through the modules, you can directly take up the test.
+
+How can I register?
+You can register by heading to the Certification page and clicking on Register.
+
+Are there any registeration charges?
+No, the courses and the certification are completely free.
+
+Are there any mock exams available?
+Yes. You can access the sample test at the bottom of the Certification page
+
+What is the pass percentage to become Infosys Certified?
+You will have to score 65% or above to become Infosys Certified 
+
+What is the format of the test?
+The test will have a combination of objective and hands-on questions
+
+Where will the certification be conducted?
+Shortly after you register, you will recieve the call letter on your registered email id with the venue details
+
+Can I complete the test without visiting the test center?
+No, you will have to be present at the test venue to take up the certification test. 
+
+How much prior to the certification must I assemble?
+You will have to assemble at the test centre one hour prior to the commencement of the examination.
+
+What is the duration of the test?
+The assessment will be for 3 hours, post which, those candidates who score 65% and above will be eligible for an interview.
+
+What documents do I need to carry with me for the test?
+You will recieve an email post registration with the details of documents you need to carry 
+
+Is there a dress code for the certification test?
+No, there is no dress code for it. Formals or Smart casuals will be appreciated.
+
+When will I receive results for the certification?
+You will recieve assessment results on your screen after you complete the test and you will recieve a soft copy of the certificate on your registered email ID. 
+
+Will I receive a hall ticket post registration?
+Yes, you will recieve it on your registered email ID 7 days prior to the date of certification test.
+
+If I don’t receive my hall ticket, how can I get assistance?
+You can write to us at infytq@infosys.com and we'll get back to you.
+
+Is there negative marking?
+No, there is no negative marking 
+
+What will happen in case there is some problem in the computer during the examination?
+Our technical team will be present to assist you in such case. 
+
+Will the percentage in the test decide my employability?
+The percentage will make you eligible for the interview round, it will only determine your eligibility for the next round.
+
+Whom should I contact for my doubts and clarification?
+You can write to us at infytq@infosys.com and we'll be happy to help!
+
+What time will the assesment be conducted?
+The assessment will start at 9AM and will go on till 12PM.
+
+How can students book a slot?
+You can to click on register and book a slot.
+
+Can I change my test center /test date once I have booked it?
+Yes, you can modify your center and dates details post registration .
+
+Where can I check the dates and slots availability?
+You can click on register and check out dates and slots availability.
+
+If I don’t score 65% can I re-appear for the certification?
+Yes! You can reappear for the assessment one month after your first attempt and 3 months post your second attempt.
+
+How can I make any profile data edits in case I have entered wrong data?
+You will be given an option to enter your data while registering for certification. Once you have registered for the cerfication assessment, you cannot change your profile data. 
+
+What happens after the certification assessment test?
+Post the certification test, if you score 65% or above, you will be eligible for an on-the-spot job interview!
+
+What will the post assessment interview test me on?
+The post assessment interview will be an HR interview
+
+By when can I expect the post assessment interview?
+Candidates who clear the certification test will be eligible for an interview on the same date. Our recruiters at the venue will guide you about the same. 
+
+How many times will I be eligible for a post assessment interview?
+You will be eligible only once for the post assessment interview.
+
+What will be the venue for the post assessment interview?
+It will be conducted at the same centre where certification test is held.
+
+Can I re -apply for Infosys if I do not clear the post assessment interview?
+Yes, you can participate in our on-campus drives (when we visit your campus) even if you do not clear the post assessment interview.
+
+Will there be any additional training sessions for me once I join Infosys?
+Yes, you will be expected to undergo a shortened training programme. 
+
+When will I have to join Infosys if I get selected?
+The date of joining will depend on the business requirement after you have completed your degree.
+
+What are the roles that will be offered if I get selected?
+You will be offered role of Systems Engineer once you clear The Infosys Certification test and the interview.
+
+Do I have an option to pick which role I want?
+No, you will be offered the role of Systems Engineer once you clear The Infosys Certification and the interview.
+
+Post selection, can I choose which campus I want to be located at?
+Your location of posting will be dependent on the business requirement.

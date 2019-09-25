@@ -1,0 +1,190 @@
+{
+  "1": {
+    "query": "What is the eligibilty criteria for the certification?\n",
+    "reply": "You must be registered on InfyTQ and a student of B.E., B. Tech, M.E., M. Tech, M.Sc., MCM, or MCA, graduating in 2020,to register for the Infosys Certification.\n"
+  },
+  "2": {
+    "query": "Is there any minimum percentage required in 10th/12th/graduation/post graduation for this?\n",
+    "reply": "You don't require a minimum percentage to apply for The Infosys Certification.\n"
+  },
+  "3": {
+    "query": "Are people from non B-tech background eligible?\n",
+    "reply": "No, only students from B.E., B. Tech, M.E., M. Tech, M.Sc., MCM or MCA and graduate/post-graduate from 2020 batch is eligible for the Infosys Certification.\n"
+  },
+  "4": {
+    "query": "Is this certification available only for indian citizens?\n",
+    "reply": "Yes, as of now, it's available only for Indian citizens.\n"
+  },
+  "5": {
+    "query": "I am already working with some other organization, am I be eligible to apply for The Infosys Certification?\n",
+    "reply": "If you are pursuing B.E., B. Tech, M.E., M. Tech, M.Sc., MCM or MCA, graduating/ post-graduating in 2020, you are eligible.\n"
+  },
+  "6": {
+    "query": "Is there any age restriction?\n",
+    "reply": "No, there is no age restriction as long as you are graduating in 2020.\n"
+  },
+  "7": {
+    "query": "Is the certification affiliated with a board?\n",
+    "reply": "No. It is an independent certification issued by Infosys Limited, India.\n"
+  },
+  "8": {
+    "query": "How will the certificate benefit students apart from getting a job at Infosys?\n",
+    "reply": "The certification will assess you on your technical skills. Being certified by Infosys will be a testimonial for your technical skills and can be a strong point for your resume.\n"
+  },
+  "9": {
+    "query": "How is this certification different from other technical certifications in the industry?\n",
+    "reply": "This certification gives you an additional benefit of being a part of Infosys' recruitment process and securing a job opportunity at Infosys.\n"
+  },
+  "10": {
+    "query": "What is the syllabus for the certification?You will be tested on Programming and Database.\n",
+    "reply": "You can study these courses (Programming Fundamentals using Python, Object Oriented Programming using Python, Data Structures and Algorithms using Python, and Learning DBMS and SQL) on InfyTQ under the Foundation Courses section.\n"
+  },
+  "11": {
+    "query": "Can anyone who is not registered on InfyTQ also access Certification registration link?\n",
+    "reply": "No, you will have to be registered on InfyTQ to register for The Infosys Certification.\n"
+  },
+  "12": {
+    "query": "Do I need to complete the learning modules before I take the test?\n",
+    "reply": "No, It's not necessary. If you think you are competent enough to crack the test without going through the modules, you can directly take up the test.\n"
+  },
+  "13": {
+    "query": "How can I register?\n",
+    "reply": "You can register by heading to the Certification page and clicking on Register.\n"
+  },
+  "14": {
+    "query": "Are there any registeration charges?\n",
+    "reply": "No, the courses and the certification are completely free.\n"
+  },
+  "15": {
+    "query": "Are there any mock exams available?\n",
+    "reply": "Yes. You can access the sample test at the bottom of the Certification page\n"
+  },
+  "16": {
+    "query": "What is the pass percentage to become Infosys Certified?\n",
+    "reply": "You will have to score 65% or above to become Infosys Certified \n"
+  },
+  "17": {
+    "query": "What is the format of the test?\n",
+    "reply": "The test will have a combination of objective and hands-on questions\n"
+  },
+  "18": {
+    "query": "Where will the certification be conducted?\n",
+    "reply": "Shortly after you register, you will recieve the call letter on your registered email id with the venue details\n"
+  },
+  "19": {
+    "query": "Can I complete the test without visiting the test center?\n",
+    "reply": "No, you will have to be present at the test venue to take up the certification test. \n"
+  },
+  "20": {
+    "query": "How much prior to the certification must I assemble?\n",
+    "reply": "You will have to assemble at the test centre one hour prior to the commencement of the examination.\n"
+  },
+  "21": {
+    "query": "What is the duration of the test?\n",
+    "reply": "The assessment will be for 3 hours, post which, those candidates who score 65% and above will be eligible for an interview.\n"
+  },
+  "22": {
+    "query": "What documents do I need to carry with me for the test?\n",
+    "reply": "You will recieve an email post registration with the details of documents you need to carry \n"
+  },
+  "23": {
+    "query": "Is there a dress code for the certification test?\n",
+    "reply": "No, there is no dress code for it. Formals or Smart casuals will be appreciated.\n"
+  },
+  "24": {
+    "query": "When will I receive results for the certification?\n",
+    "reply": "You will recieve assessment results on your screen after you complete the test and you will recieve a soft copy of the certificate on your registered email ID. \n"
+  },
+  "25": {
+    "query": "Will I receive a hall ticket post registration?\n",
+    "reply": "Yes, you will recieve it on your registered email ID 7 days prior to the date of certification test.\n"
+  },
+  "26": {
+    "query": "If I don\u2019t receive my hall ticket, how can I get assistance?\n",
+    "reply": "You can write to us at infytq@infosys.com and we'll get back to you.\n"
+  },
+  "27": {
+    "query": "Is there negative marking?\n",
+    "reply": "No, there is no negative marking \n"
+  },
+  "28": {
+    "query": "What will happen in case there is some problem in the computer during the examination?\n",
+    "reply": "Our technical team will be present to assist you in such case. \n"
+  },
+  "29": {
+    "query": "Will the percentage in the test decide my employability?\n",
+    "reply": "The percentage will make you eligible for the interview round, it will only determine your eligibility for the next round.\n"
+  },
+  "30": {
+    "query": "Whom should I contact for my doubts and clarification?\n",
+    "reply": "You can write to us at infytq@infosys.com and we'll be happy to help!\n"
+  },
+  "31": {
+    "query": "What time will the assesment be conducted?\n",
+    "reply": "The assessment will start at 9AM and will go on till 12PM.\n"
+  },
+  "32": {
+    "query": "How can students book a slot?\n",
+    "reply": "You can to click on register and book a slot.\n"
+  },
+  "33": {
+    "query": "Can I change my test center /test date once I have booked it?\n",
+    "reply": "Yes, you can modify your center and dates details post registration .\n"
+  },
+  "34": {
+    "query": "Where can I check the dates and slots availability?\n",
+    "reply": "You can click on register and check out dates and slots availability.\n"
+  },
+  "35": {
+    "query": "If I don\u2019t score 65% can I re-appear for the certification?\n",
+    "reply": "Yes! You can reappear for the assessment one month after your first attempt and 3 months post your second attempt.\n"
+  },
+  "36": {
+    "query": "How can I make any profile data edits in case I have entered wrong data?\n",
+    "reply": "You will be given an option to enter your data while registering for certification. Once you have registered for the cerfication assessment, you cannot change your profile data. \n"
+  },
+  "37": {
+    "query": "What happens after the certification assessment test?\n",
+    "reply": "Post the certification test, if you score 65% or above, you will be eligible for an on-the-spot job interview!\n"
+  },
+  "38": {
+    "query": "What will the post assessment interview test me on?\n",
+    "reply": "The post assessment interview will be an HR interview\n"
+  },
+  "39": {
+    "query": "By when can I expect the post assessment interview?\n",
+    "reply": "Candidates who clear the certification test will be eligible for an interview on the same date. Our recruiters at the venue will guide you about the same. \n"
+  },
+  "40": {
+    "query": "How many times will I be eligible for a post assessment interview?\n",
+    "reply": "You will be eligible only once for the post assessment interview.\n"
+  },
+  "41": {
+    "query": "What will be the venue for the post assessment interview?\n",
+    "reply": "It will be conducted at the same centre where certification test is held.\n"
+  },
+  "42": {
+    "query": "Can I re -apply for Infosys if I do not clear the post assessment interview?\n",
+    "reply": "Yes, you can participate in our on-campus drives (when we visit your campus) even if you do not clear the post assessment interview.\n"
+  },
+  "43": {
+    "query": "Will there be any additional training sessions for me once I join Infosys?\n",
+    "reply": "Yes, you will be expected to undergo a shortened training programme. \n"
+  },
+  "44": {
+    "query": "When will I have to join Infosys if I get selected?\n",
+    "reply": "The date of joining will depend on the business requirement after you have completed your degree.\n"
+  },
+  "45": {
+    "query": "What are the roles that will be offered if I get selected?\n",
+    "reply": "You will be offered role of Systems Engineer once you clear The Infosys Certification test and the interview.\n"
+  },
+  "46": {
+    "query": "Do I have an option to pick which role I want?\n",
+    "reply": "No, you will be offered the role of Systems Engineer once you clear The Infosys Certification and the interview.\n"
+  },
+  "47": {
+    "query": "Post selection, can I choose which campus I want to be located at?\n",
+    "reply": "Your location of posting will be dependent on the business requirement.\n"
+  }
+}
